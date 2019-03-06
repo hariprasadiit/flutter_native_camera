@@ -1,14 +1,11 @@
 # flutter_native_camera
 
-Camera plugin using native camera libraries and platform-view
+Camera plugin using native camera libraries and platform-views
 
-## Getting Started
+#### iOS
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.io/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+On iOS https://github.com/Awalz/SwiftyCam is used
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+#### Android
+
+On Android https://github.com/natario1/CameraView is used
